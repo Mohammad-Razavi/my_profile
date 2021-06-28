@@ -7,4 +7,4 @@ A(Trying) --> C((Target))
 B(Thinking) --> C
 C --> D{Success}
 ```
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?Mohammad-Razavi=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mohammad-Razavi)](https://github.com/anuraghazra/github-readme-stats)
